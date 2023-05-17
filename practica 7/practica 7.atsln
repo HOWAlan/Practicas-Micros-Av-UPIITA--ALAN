@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "practica 7", "practica 7\practica 7.cproj", "{CBCCC70E-0F1D-42F2-8640-354FD16FC151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCCC70E-0F1D-42F2-8640-354FD16FC151}.Debug|AVR.ActiveCfg = Debug|AVR
+		{CBCCC70E-0F1D-42F2-8640-354FD16FC151}.Debug|AVR.Build.0 = Debug|AVR
+		{CBCCC70E-0F1D-42F2-8640-354FD16FC151}.Release|AVR.ActiveCfg = Release|AVR
+		{CBCCC70E-0F1D-42F2-8640-354FD16FC151}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
